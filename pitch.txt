@@ -1,0 +1,26 @@
+Game idea: 
+this game will have a hidden meaning behind. It will be about our planet that is currently slowly dying because of the human race.
+
+Scenario and characters description:
+There is going to be animals, humans and many plants and ressources.
+People will be destroying the animals and mine ressources to an extent where it hurts the planet's health.
+The planet will have a healthbar.
+
+Goals:
+The goal is to stop the humans to destroy the planet by stopping them at certain moments.
+
+Game win/lose conditions:
+You win when the time is done and the planet's health is not less than 0
+You Lose whenever your planet has no more health
+
+Progression of levels:
+Every level, the map will change and you the humans will be more faster and faster.
+The healthbar will also decrease a little bit.
+
+Source of inspiration:
+We should start taking more care about our environment, so i hope this game will teach some youngins about the importance of GREENLIFE.
+
+Skills needed:
+creative
+decent programming (knows how to do loops very well)
+graphic designer(not necessary, just to flex).
